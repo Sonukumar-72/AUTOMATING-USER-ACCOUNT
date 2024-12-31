@@ -1,0 +1,34 @@
+2024-12-29 16:40:32 - Creating new user 'maxtern'.
+2024-12-29 16:40:32 - User 'maxtern' created successfully.
+2024-12-29 16:40:32 - Added 'maxtern' to the 'Administrators' group.
+2024-12-29 16:40:32 - Created home directory for 'maxtern' at 'C:\Users\maxtern'.
+2024-12-29 16:40:32 - Set full control permissions for 'maxtern' on their home directory.
+2024-12-29 16:40:32 - Creating new user 'rob'.
+2024-12-29 16:40:32 - User 'rob' created successfully.
+2024-12-29 16:40:33 - Created home directory for 'rob' at 'C:\Users\rob'.
+2024-12-29 16:40:33 - Set full control permissions for 'rob' on their home directory.
+2024-12-29 16:46:25 - Creating new user 'maxtern'.
+2024-12-29 16:46:25 - User 'maxtern' created successfully.
+2024-12-29 16:46:26 - Added 'maxtern' to the 'Administrators' group.
+2024-12-29 16:46:26 - Created home directory for 'maxtern' at 'C:\Users\maxtern'.
+2024-12-29 16:46:26 - Failed to set permissions. Home directory 'C:\Users\maxtern' does not exist.
+2024-12-29 16:46:26 - Creating new user 'rob'.
+2024-12-29 16:46:26 - User 'rob' created successfully.
+2024-12-29 16:46:26 - Created home directory for 'rob' at 'C:\Users\rob'.
+2024-12-29 16:46:26 - Failed to set permissions. Home directory 'C:\Users\rob' does not exist.
+2024-12-29 16:48:07 - Error encountered for user 'maxtern': The term 'Get-LocalUser' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2024-12-29 16:48:07 - Error encountered for user 'rob': The term 'Get-LocalUser' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2024-12-29 16:49:08 - Error encountered for user 'maxtern': The term 'Get-LocalUser' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2024-12-29 16:49:08 - Error encountered for user 'rob': The term 'Get-LocalUser' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+2024-12-29 16:51:44 - Script was not run as Administrator. Terminating execution.
+2024-12-29 17:03:13 - Script was not run as Administrator. Terminating execution.
+2024-12-29 17:03:46 - Script was not run as Administrator. Terminating execution.
+2024-12-29 17:07:01 - Script was not run as Administrator. Terminating execution.
+2024-12-29 17:07:26 - Script was not run as Administrator. Terminating execution.
+2024-12-31 08:18:05 - Script was not run as Administrator. Terminating execution.
+2024-12-31 08:19:54 - Script was not run as Administrator. Terminating execution.
+2024-12-31 08:21:50 - Script was not run as Administrator. Terminating execution.
+2024-12-31 08:22:11 - Script was not run as Administrator. Terminating execution.
+2024-12-31 08:22:21 - Script was not run as Administrator. Terminating execution.
+2024-12-31 08:22:41 - Script was not run as Administrator. Terminating execution.
+2024-12-31 08:22:45 - Script was not run as Administrator. Terminating execution.
